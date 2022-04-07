@@ -25,4 +25,7 @@
   <a href="mailto:hejin8307@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hejin8307@naver.com"/></a>
 </p>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hejin8307&theme=ayu-mirage&show_icons=true) -->
+<p align="center">
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hejin8307&theme=ayu-mirage&show_icons=true) -->
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hejin8307)](https://github.com/hejin8307/github-readme-stats) -->
+</p>
