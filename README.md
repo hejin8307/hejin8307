@@ -33,7 +33,8 @@
     <br/>
     <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/YARN-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/></a>&nbsp
-<!--     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/></a>&nbsp -->
+    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/></a>&nbsp
 
    </p>
 
