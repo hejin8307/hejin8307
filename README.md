@@ -6,13 +6,13 @@
   ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=HYEJIN%20IM&fontSize=90)
 
   <br>
-  <h3>
+  <!-- <h3>
     🌱 I'm currently learning...
   </h3>
   <h4>
     - 🌎 web <br/>
     - 💻 Frontend : JS, REACT <br/>
-  </h4>
+  </h4> --!>
   <br/>
 
   <h3>🛠 Tech Stack 🛠</h3>
