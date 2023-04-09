@@ -27,10 +27,12 @@
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS3&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/React/React Native-61DAFB?style=flat-square&logo=create react app&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss3&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=create react app&logoColor=white"/></a>&nbsp
     <br/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a>&nbsp
     <br/>
     <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/YARN-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/></a>&nbsp
