@@ -29,8 +29,9 @@
 
   <h3> Me 👩‍💻 </h3>
   <p align="center">
-  <!--   <a href="https://www.instagram.com/jinnn._.y/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp -->
+  <!--   <a href="https://www.instagram.com/jinnn._.y/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jinnn._.y/"/></a>&nbsp -->
     <a href="mailto:hejin8307@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hejin8307@naver.com"/></a>
+  <a href="[mailto:hejin8307@naver.com](https://hxexince.notion.site/HI-I-M-HYEJIN-72d14051cac54dd5a7141d23e656fa63)"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://hxexince.notion.site/HI-I-M-HYEJIN-72d14051cac54dd5a7141d23e656fa63"/></a>
   </p>
 
 </div>
