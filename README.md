@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    👩‍💻 Frontend Developer <br/>
+    Hi, 🖐 <br/>
   </h1>
 
   ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=HYEJIN%20IM&fontSize=90)
