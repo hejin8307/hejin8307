@@ -32,5 +32,9 @@
   <!--   <a href="https://www.instagram.com/jinnn._.y/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jinnn._.y/"/></a>&nbsp -->
   <a href="https://hxexince.notion.site/HI-I-M-HYEJIN-72d14051cac54dd5a7141d23e656fa63"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&"/></a>
   </p>
+  
+<!--   <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hejin8307&layout=compact&theme=moltack"/>
+  </p> -->
 
 </div>
